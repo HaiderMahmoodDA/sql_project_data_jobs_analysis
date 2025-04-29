@@ -55,7 +55,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Analyst's Roles](assets\1_top_paying_analyst_roles.png)
+![Top Paying Analyst's Roles](assets/1_top_paying_analyst_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### For Data Scientist:
@@ -73,7 +73,7 @@ Companies like Demandbase, Teramind, Storm5, and Storm4 are not household tech n
 Yet they offer $300K+ salaries.
 
 
-![Top Paying scientist's Roles](assets\1_top_paying_scientist_roles.png)
+![Top Paying scientist's Roles](assets/1_top_paying_scientist_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data scientist; ChatGPT generated this graph from my SQL query results*
 
 ### For Data Engineer:
@@ -91,7 +91,7 @@ Engtal and Signify Technology (staffing/consulting firms) posted multiple top ro
 
 - AI companies require massive, high-quality data pipelines to train their models, making Data Engineers critical hires.
 
-![Top Paying engineer's Roles](assets\1_top_paying_engineer_roles.png)
+![Top Paying engineer's Roles](assets/1_top_paying_engineer_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data engineer; ChatGPT generated this graph from my SQL query results*
 
 ## 2. Skills for Top Paying jobs:
@@ -132,7 +132,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023, base
 - Tableau is also highly sought after, with a bold count of 6.
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![Top Paying Skills For Analyst](assets\2_top_paying_roles_skills_analyst.png)
+![Top Paying Skills For Analyst](assets/2_top_paying_roles_skills_analyst.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### For Data Scientist:
@@ -144,7 +144,7 @@ Here's the breakdown of the most demanded skills for data scientist in 2023, bas
 - Big data tools like Spark, Hadoop, and Cassandra are requested but less frequently.
 - Other tools like Tableau, Kubernetes, and Scala are less common but still requested.
 
-![Top Paying Skills For Scientist](assets\2_top_paying_roles_skills_scientist.png)*Bar graph visualizing the count of skills for the top 10 paying jobs for data scientist; this bar graph I genertated it using Excel*
+![Top Paying Skills For Scientist](assets/2_top_paying_roles_skills_scientist.png)*Bar graph visualizing the count of skills for the top 10 paying jobs for data scientist; this bar graph I genertated it using Excel*
 
 
 ### For Data Engineer:
@@ -165,7 +165,7 @@ Here's the breakdown of the most demanded skills for data Engineer in 2023, base
   suggesting some overlap with ML engineering tasks.
 
 
-![Top Paying Skills For Engineer](assets\2_top_paying_roles_skills_engineer.png)*Bar graph visualizing the count of skills for the top 10 paying jobs for data engineer; this bar graph I genertated it using Excel*
+![Top Paying Skills For Engineer](assets/2_top_paying_roles_skills_engineer.png)*Bar graph visualizing the count of skills for the top 10 paying jobs for data engineer; this bar graph I genertated it using Excel*
 
 ## 3. In-Demand Skills for Data Majors:
 
